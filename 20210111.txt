@@ -1,4 +1,7 @@
-Chinese: 乐天 - Rakuten
-Filipino: ulan means rain
+Chinese:
+    乐天 - Rakuten
+Filipino:
+    ulan - rain
 Japanese:
+
 Korean:
