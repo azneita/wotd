@@ -1,0 +1,8 @@
+Chinese:
+    雪(Xue) - Snow
+Filipino:
+    magandang umaga - good morning
+Japanese:
+    Kon'nichiwa - good afternoon
+Korean:
+    추워요(chu wo yo) - it's cold
